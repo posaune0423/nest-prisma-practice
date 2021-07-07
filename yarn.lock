@@ -699,7 +699,7 @@
     consola "^2.15.0"
     node-fetch "^2.6.1"
 
-"@prisma/client@2.26.0":
+"@prisma/client@^2.26.0":
   version "2.26.0"
   resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.26.0.tgz#a23a83bc5c931243ee20b78d9ded423e158aa4c1"
   integrity sha512-iwhjdUV/MEQZ7RzTEcZ/D+ewxx/pGExWJ2LypfHioJIvEMyK0saPiR0tjMvMT2I2SVzrIM5dXGhBHWi2JksWrQ==
